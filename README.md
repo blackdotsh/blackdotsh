@@ -3,8 +3,8 @@
 
 ##### 🧒 Love computers & tech since childhood
 ##### 🎓 Graduated with a Bachelors of Science and Masters of Science in Computer Science degree
-##### 🧠 Knowledgeable in algorithms & back-end systems, but not so good at making things pretty like website design.
-##### 👨‍💻 Currently working to make the Internet a better place with [GetIPIntel.net](https://getipintel.net) since 2014.
+##### 🧠 Knowledgeable in algorithms & back-end systems, but not so good at making things pretty like website design
+##### 👨‍💻 Currently working to make the Internet a better place with [GetIPIntel.net](https://getipintel.net) since 2014
 <!--
 **blackdotsh/blackdotsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
