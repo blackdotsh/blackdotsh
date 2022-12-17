@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm black.sh & I code stuff
 ------
 
-##### 🧒 Love computers & tech since childhood
 ##### 🎓 Graduated with a Bachelors of Science and Masters of Science in Computer Science
 ##### 🧠 Knowledgeable in algorithms & back-end systems, but not so good at making things pretty like website design
 ##### 👨‍💻 Currently working to make the Internet a better place with [GetIPIntel.net](https://getipintel.net) since 2014
